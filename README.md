@@ -25,7 +25,7 @@ Este projeto automatiza esse processo por meio de uma integração com a API pú
 
 ### Fluxo completo
 
-![Fluxo completo da automação](docs/imagens/fluxo-n8n.png)
+![Fluxo completo da automação](docs/imagens/Fluxo.n8n.png)
 
 ## Execução e configuração
 
