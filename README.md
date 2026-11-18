@@ -43,4 +43,4 @@ Para utilizar o workflow:
 
 ## Fonte de dados e utilização
 
-A automação utiliza a API pública do [Jobicy](https://jobicy.com
+A automação utiliza a API pública do [Jobicy](https://jobicy.com)
